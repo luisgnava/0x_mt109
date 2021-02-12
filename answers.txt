@@ -1,0 +1,47 @@
+1. I believe the main difference between these three is the level of progress where they are being used for development,
+   Unitary tests are mostly used on the first stages of testing to verify and check for any bugs before
+   continuing with Integration tests, to see how all the components in the application work together
+   and hunt further bugs that could appear from this step, finally we have Acceptance tests which
+   are used to revise and tested for usability and compliance with the business models and potential customers.
+
+2. For me, SCRUM is the application of good business practices, it works on the base that all developers and people attached
+   to the project will deliver the needed work via small iterations and delivery of the "product" in a certain amount of
+   given time, it usually goes like this but it varies depending on the environment: User feedback and planning, Planning phase,
+   Sprint (the amount of time required to deliver the product) with daily stand ups with the teams in between sprints.
+
+3. TDD or Test Driven Development is a practice made to write more efficient and bug-less code, the way this works is
+   by writing script tests for every new element or functionality for an application before its eventual implementation
+
+4. I know about Continuous Integration and I recently learned about Continuous Delivery, what I can say about their benefits
+   is really limited but I can try to list their benefits between one another:
+   CI focuses on merging and committing changes as often as possible, these changes are validated by creating tests for every build
+   CD is mainly defined by already having a testing environment and deploying all these code changes to it
+   How I can tell them apart and tell any advantages between the two is that CI is the one I'm the most used with, and every
+   single change that is made to the application is easily identifiable and tracked on the repo the team is working with
+   CD seems to be another good practice to have in development, since on top of CI you also have easy automated releases
+
+5. What I know about Monolithic architecture is very limited, but I do know that all code for both front and back end is based on the same premises
+   and the same language, what I recently learned about a Microservices architecture is that every single service and all elements for the
+   application is divided into smaller modules, sometimes with different frameworks and languages
+
+6. If I have to leave a blank answer, this one would be it, before today I never even fathomed the usage of a serverless application, and
+   for it to be based on the cloud? Every day I learn something new...
+
+7. What I can remember about DevOps from one of my last jobs is that the people that work in that position value smooth transitions
+   over anything else (speaking of code practices), practice CI and CD with a third one known as Continuous Deployment and
+   automate processes as much as possible.
+
+8. The ones that stood out the most for me because of my interests were Universe (https://github.com/openai/universe), Universe is
+   a platform that can measure the overall intelligence and "human-like" features of an A.I with different environments for each one.
+   This one is one of my favorites (please excuse the use of the word) https://github.com/nvbn/thefuck is "A magnificent tool" that
+   corrects any grammar or misspelling on your console commands. (for example, you made >puthon instead of >python)
+   Here's one I've used before but had no idea it was open source, https://github.com/gautamkrishnar/socli SoCLI is basically using
+   Stack Overflow without even leaving your terminal, it is written in python, it has an easy to use implementation and you can use brew
+   to install it
+
+9. If I'm being completely honest, I have NEVER read a single book of programming before, but I do acknowledge that one of my
+   biggest friends when coding is Stack Overflow, back in school I used W3Schools a lot since they have a huge library on almost any
+   programming language you can think of, it might not be as detailed on some stuff but the vast majority of the subjects in the page
+   are easy to follow for beginners and professionals alike.
+
+  
